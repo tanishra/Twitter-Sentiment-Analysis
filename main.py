@@ -5,7 +5,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 import os
-# import sklearn
+import sklearn
 
 nltk.data.path.append(os.path.expanduser('~/nltk_data'))
 # Initialize PorterStemmer
