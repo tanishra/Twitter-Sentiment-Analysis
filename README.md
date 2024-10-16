@@ -13,5 +13,5 @@ To try out the web demo of Twitter Sentiment Analysis, visit Demo Link. 🚀 htt
 
 ## Installation
 
-Clone the repository: git clone https://github.com/tanishra/twitter-sentiment-analysis.git Navigate to the project directory: cd twitter-sentiment-analysis Install dependencies: pip install -r requirements.txt Run the application: streamlit app.py 🛠️
+Clone the repository: git clone https://github.com/tanishra/twitter-sentiment-analysis.git Navigate to the project directory: cd twitter-sentiment-analysis Install dependencies: pip install -r requirements.txt Run the application: streamlit main.py 🛠️
 
